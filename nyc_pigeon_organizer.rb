@@ -1,3 +1,5 @@
+require 'pry'
+
 pigeon_list = {
   "Theo" => {
     :color => ["purple", "grey"],
@@ -38,4 +40,5 @@ pigeon_list = {
 
 def nyc_pigeon_organizer(data)
 
+  binding.pry 
 end
