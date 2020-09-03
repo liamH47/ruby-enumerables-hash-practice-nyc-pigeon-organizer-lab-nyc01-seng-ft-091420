@@ -14,7 +14,7 @@ end
 end
 final_array[name][key].push(inner_key)
 end
-  final_array
+end
 end
   binding.pry 
 end
