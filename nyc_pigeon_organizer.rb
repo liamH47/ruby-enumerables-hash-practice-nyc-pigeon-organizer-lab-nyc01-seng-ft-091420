@@ -8,6 +8,7 @@ data.each_with_object({}) do |(key, value), final_array|
     names.each do |name|
       binding.pry
 end
+end
   final_array
 end
   binding.pry 
